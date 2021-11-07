@@ -139,3 +139,4 @@ let car = sprites.create(img`
     . . . f f f . . . . f f f f . . 
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
+car.setPosition(80, 86)
